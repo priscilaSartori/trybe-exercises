@@ -9,10 +9,10 @@ const fetchCharacter = async (id) => {
 
     //Retornamos o resultado da nossa requisição
     return results;
-  } catch (e) {
+  } catch (error) {
     // Caso algo aconteça e nossa requisição não seja realizada com sucesso
     // capturamos e retornamos essa exceção.
-    return e;
+    return error;
   }
 };
 
@@ -21,7 +21,7 @@ const fetchCharacter = async (id) => {
 //   const promise = fetch(URL)
 //     .then((response) => response.json())
 //     .then((result) => result)
-//     .catch((e) => e);
+//     .catch((error) => error);
 
 //     return promise;
 // };
