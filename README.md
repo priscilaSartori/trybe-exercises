@@ -27,3 +27,17 @@ Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemp
 Agora basta criar o PULL REQUEST clicando no botão `Create Pull Request`.
 
 Para cada PR realize esse processo.
+
+## Começando o conteúdo
+
+Nesse repositório você vai encontrar a estrutura necessária para acompanhar o dia 9.3 Testes Assíncronos.
+
+**Não esqueça de rodar `npm install`**
+
+A estrutura de pastas está organizada da seguinte forma:
+
+`/mocks`: É aqui que se encontra a simulação da API, com comentários explicando como a função funciona. **Não se preocupe com isso agora**, você vai aprender a criar essas simulações no módulo de Front-end, quando estudar React Testing Library. O foco agora é entender como testar funções assíncronas, ok?
+
+`/src/fetchCharacter.js`: Nesse arquivo se encontra a função responsável por fazer a requisição para a API, ela está comentada com o passo a passo. Aqui se encontram as opções de requisição com `async/await` e `.then()`, que está comentada. Você pode escolher a opção a qual se sinta mais confortável para utilizar, isso não irá interferir nos testes.
+
+`/tests/fetchCharacter.test.js`: Esse é o único arquivo a ser alterado, a estrutura inicial já está feita. É aqui que você vai copiar e colar os códigos para acompanhar o conteúdo.
