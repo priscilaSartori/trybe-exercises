@@ -34,4 +34,8 @@ const fetchSimulator = (url) => {
   });
 };
 
+// Avisamos ao nosso arquivo que nossa função será simulada.
+// Você irá aprender a criar essas simulações no bloco de Front-end.
+window.fetch = jest.fn(fetchSimulator);
+
 module.exports = fetchSimulator;

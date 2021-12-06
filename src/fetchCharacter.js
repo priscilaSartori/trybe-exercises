@@ -26,8 +26,6 @@ const fetchCharacter = async (id) => {
 //     return promise;
 // };
 
-if (typeof module !== 'undefined') {
-  module.exports = {
-    fetchCharacter,
-  };
-}
+module.exports = {
+  fetchCharacter,
+};
