@@ -41,3 +41,7 @@ A estrutura de pastas está organizada da seguinte forma:
 `/src/fetchCharacter.js`: Nesse arquivo se encontra a função responsável por fazer a requisição para a API, ela está comentada com o passo a passo. Aqui se encontram as opções de requisição com `async/await` e `.then()`, que está comentada. Você pode escolher a opção a qual se sinta mais confortável para utilizar, isso não irá interferir nos testes.
 
 `/tests/fetchCharacter.test.js`: Esse é o único arquivo a ser alterado, a estrutura inicial já está feita. É aqui que você vai copiar e colar os códigos para acompanhar o conteúdo.
+
+Caso aconteça algum imprevisto, você pode conferir os testes completos na branch `conteudo-completo`.
+
+Bons estudos!
