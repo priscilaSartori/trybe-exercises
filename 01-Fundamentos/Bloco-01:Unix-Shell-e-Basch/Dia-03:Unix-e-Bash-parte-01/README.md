@@ -19,16 +19,7 @@ Os requisitos do exercício são:
 - [ ] 11 - Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
 - [ ] 12 - Apague o diretório backup.
 - [ ] 13 - Limpe o terminal.
-- [ ] 14 - Crie um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
-                - Copiar
-                - Internet
-                - Unix
-                - Bash
-                - HTML
-                - CSS
-                - JavaScript
-                - React
-                - SQL
+- [ ] 14 - Crie um arquivo de texto com o conteúdo a seguir, chamado skills.txt: copiar, internet, Unix, Bash, HTML, CSS, JavaScript, React, SQL
 - [ ] 15 - Mostre na tela as 5 primeiras skills do arquivo skills.txt.
 - [ ] 16 - Mostre na tela as 4 últimas skills do arquivo skills.txt.
 - [ ] 17 - Apague todos os arquivos que terminem em .txt.
