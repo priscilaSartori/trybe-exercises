@@ -56,7 +56,7 @@
 
 # Exercício 6 - Troque a cor de fundo de cada item da lista para a cor correspondente ao texto
 <style>
-	#amarelo {
+	      #amarelo {
             background-color: yellow;
         }
         #vermelho {

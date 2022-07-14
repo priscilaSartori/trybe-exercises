@@ -37,26 +37,20 @@
         }
 </style>
 
-<ul>
-      <li id="cores">Amarelo</li>
-      <li id="cores">Vermelho</li>
-      <li id="cores">Marrom</li>
-    </ul>
-
-# Exercício 4 - Crie uma classe para modificar a cor de fundo da tag p e da ul ao mesmo tempo
-<style>
-	.cordefundo {
-            background-color: khaki;
-        }
-</style>
-
-<p class="cordefundo">Qual é a sua cor favorita?</p>
-    <ul class="cordefundo">
+<ul> id="cores"
       <li>Amarelo</li>
       <li>Vermelho</li>
       <li>Marrom</li>
     </ul>
 
+# Exercício 4 - Crie uma classe para modificar a cor de fundo da tag p e da ul ao mesmo tempo
+<style>
+	.cordefundo{
+            background-color: khaki;
+        }
+</style>
+<p class="cordefundo">Qual é a sua cor favorita?</p>
+    <ul class="cordefundo">
 
 Resultado:
 <!DOCTYPE html>
@@ -72,7 +66,7 @@ Resultado:
         #cores {
             background-color: yellowgreen;
         }
-        .cordefundo {
+        p, ul {
             background-color: khaki;
         }
     </style>
@@ -80,10 +74,10 @@ Resultado:
   <body>
     <h1>Exercícios 3.2</h1>
     <p class="cordefundo">Qual é a sua cor favorita?</p>
-    <ul class="cordefundo">
-      <li id="cores">Amarelo</li>
-      <li id="cores">Vermelho</li>
-      <li id="cores">Marrom</li>
+    <ul id="cores" class="cordefundo">
+      <li>Amarelo</li>
+      <li>Vermelho</li>
+      <li>Marrom</li>
     </ul>
   </body>
 </html>
