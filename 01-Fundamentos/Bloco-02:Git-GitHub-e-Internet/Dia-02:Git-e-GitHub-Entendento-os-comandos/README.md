@@ -1,4 +1,5 @@
-DIA 2
+# DIA 4
+
 O objetivo dos exercícios desse dia foi entender o conceito de Git, executar os comandos do Git, criar repositórios, fazer commits e contribuir com seus Pull Requests nos projetos. Para conseguir o aperfeiçoamento no uso de repositórios e do versionamento de código! ✌️ 💪 👊
 
 
