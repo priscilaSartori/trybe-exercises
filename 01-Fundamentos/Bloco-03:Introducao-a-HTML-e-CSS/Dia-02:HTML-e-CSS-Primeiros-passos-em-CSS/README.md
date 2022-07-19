@@ -21,3 +21,7 @@ Os requisitos do exercício são:
 
 ## Parte 3 - CSS INLINE E EXTERNO
 - [ ] 1 - Coloque todo o CSS criado até agora nos exercícios anteriores em um arquivo externo.
+
+## Parte 4 - ESTILIZANDO SEU POTFFOLIO WEB!
+- [ ] 1 - Estilize seu portfólio usando todo o conhecimento que você construiu hoje.
+- [ ] 2 - Atualize seu Portfólio Web no GitHub Pages.

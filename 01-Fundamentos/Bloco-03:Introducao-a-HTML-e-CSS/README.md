@@ -5,16 +5,21 @@ Esse bloco pertence ao módulo de “Fundamentos” do curso da [Trybe] (https:/
 Para trabalhar com desenvolvimento de software web, precisamos de um sólido conhecimento nas partes fundamentais do código que roda no cliente: HTML, CSS e JavaScript. Afinal, esse será o ponto de contato dos usuários com as nossas aplicações.
 
 Nesse bloco aprendi sobre:
-- Utilizar o HTML para estruturar textos e títulos;
-- Utilizar o HTML para criar listas, links e adicionar imagens;
-- Usar as principais tags do HTML para criar a estrutura das páginas web
-- Estruturar páginas HTML estilizadas com o CSS.
-	- Criar regras de estilo para tags HTML utilizando o CSS;
-	- Utilizar os seletores de tag, id e class para aplicar regras de CSS;
-	- Alterar características da fonte e das cores de páginas web;
-	- Utilizar CSS inline e externo.
-- Usar o CSS para estilizar as tags, usando diferentes formas de selecionar os elementos HTML
-- Alterar o posicionamento dos elementos na página e como algumas propriedades específicas alteram as dimensões dos elementos
-- O significado que cada elemento HTML carrega e sobre como isso impacta a acessibilidade da página e a interpretação do conteúdo por indexadores de pesquisa, como o Google
-- Desenvolvi a minha própria página, aplicando todo o seu conhecimento, de acordo com a especificação do projeto final
-Tendo isso em mente, aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui].
+ - Estruturar páginas web com HTML utilizando as tags html, head e body;
+ - Utilizar o HTML para estruturar textos e títulos;
+ - Utilizar o HTML para criar listas, links e adicionar imagens;
+ - Criar regras de estilo para tags HTML utilizando o CSS;
+ - Utilizar os seletores de tag, id e class para aplicar regras de CSS;
+ - Alterar características da fonte e das cores de páginas web;
+ - Utilizar CSS inline e externo.
+ - Compreender como funciona o Box Model do CSS e como os elementos da página se relacionam visualmente;
+ - Posicionar elementos na página de diferentes formas;
+ - Combinar e agrupar seletores de CSS para criar regras bem definidas.
+ - Fazer uso de elementos HTML de acordo com o sentido e o propósito que eles carregam. Tais elementos incluem, mas não se limitam a: header, nav, aside, article, section, footer e img;
+ - Criar páginas semanticamente válidas e acessíveis;
+ - Entender a diferença entre elementos de bloco e elementos inline.
+ - Entender como funciona a estrutura (HTML) de uma página;
+ - Entender como o estilo (CSS) é aplicado à página;
+ - Construir páginas utilizando HTML e CSS;
+ - Realizar manutenções em páginas já existentes;
+ - Aplicar Layout e Box Model na prática; 
