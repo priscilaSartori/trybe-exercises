@@ -25,3 +25,7 @@ Os requisitos do exercício são:
 ## Parte 4 - ESTILIZANDO SEU POTFFOLIO WEB!
 - [ ] 1 - Estilize seu portfólio usando todo o conhecimento que você construiu hoje.
 - [ ] 2 - Atualize seu Portfólio Web no GitHub Pages.
+- [ ] 3 - Defina fontes diferentes para o seu nome e para a descrição que você criou;
+- [ ] 4 - Defina uma cor base de background do seu Portfólio Web;
+- [ ] 5 - Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
+- [ ] 6 - Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
