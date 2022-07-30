@@ -20,6 +20,6 @@ Os requisitos do exercício são:
 - [ ]  9 - Crie e execute uma função que mude o texto na tag `<p>-----</p>`, para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício)
 - [ ]  10 - Crie e execute uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).
 - [ ]  11 - Crie e execute uma função que mude a cor do quadrado vermelho para branco.
-- [ ]  12 - Crie e execute uma função que corrija o texto da tag <h1>.
+- [ ]  12 - Crie e execute uma função que corrija o texto da tag <h1>
 - [ ]  13 - Crie e execute uma função que modifique todo o texto da tag <p> para maiúsculo.
 - [ ]  14 - Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
