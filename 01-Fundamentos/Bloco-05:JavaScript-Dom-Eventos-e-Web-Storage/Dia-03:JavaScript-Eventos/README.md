@@ -1,8 +1,7 @@
 # DIA 3 - JavaScript - Eventos
 
-Uma das funcionalidades mais poderosas do JavaScript é a capacidade de "reagir" a eventos que acontecem em uma página web.
-Praticamente qualquer interação de quem usa com a página pode ser considerada um evento. O rolar da tela, o passar do mouse por um elemento, o click do mouse, o digitar do teclado, entre outros.
-O objetivo dos exercícios desse dia foi aprender como usar o JavaScript para criar um código que execute a partir da ocorrência desses eventos, fazendo com que suas páginas se comportem dinamicamente, de acordo com as interações de quem usa.
+O objetivo dos exercícios desse dia foi aprender como usar o JavaScript para criar um código que execute a partir da ocorrência de eventos, fazendo com que suas páginas se comportem dinamicamente, de acordo com as interações de quem usa.
+Uma das funcionalidades mais poderosas do JavaScript é a capacidade de "reagir" a eventos que acontecem em uma página web. Praticamente qualquer interação de quem usa com a página pode ser considerada um evento. O rolar da tela, o passar do mouse por um elemento, o click do mouse, o digitar do teclado, entre outros.
 
 Os requisitos do exercício são:
 
