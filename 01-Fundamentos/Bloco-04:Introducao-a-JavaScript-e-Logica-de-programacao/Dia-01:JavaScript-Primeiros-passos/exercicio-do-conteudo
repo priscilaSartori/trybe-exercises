@@ -20,7 +20,10 @@ console.log(birthYear);
 // Exercício 6 - Altere o valor atribuído à constante birthCity. Faça um console.log(birthCity) novamente! Você saberia explicar por que recebemos uma mensagem de erro? 🤔
 // birthCity = "São Paulo";
 // console.log (birthCity);
+<<<<<<< HEAD
 // TypeError: Assignment to constant variable.
+=======
+>>>>>>> exercicios/4.1
 
 
 //### Tipos Primitivos, Tipagem Dinâmica e Operações Aritméticas
@@ -80,7 +83,10 @@ if (notaTesteTecnico >= 80) {
 } else {
     console.log ("Você foi reprovada(o)")
 };
+<<<<<<< HEAD
 // TypeError: Assignment to constant variable.
+=======
+>>>>>>> exercicios/4.1
 
 
 //## Operadores lógicos - Operador AND
