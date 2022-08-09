@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "bulma": "^0.9.4",
+    "just-validate": "^3.8.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
