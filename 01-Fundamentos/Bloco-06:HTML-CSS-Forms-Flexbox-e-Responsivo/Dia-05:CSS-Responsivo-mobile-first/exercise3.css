@@ -1,0 +1,66 @@
+  /* 1 - Precisamos definir uma @media para estilizar o arquivo para formato de impressão. */
+/** For printing **/
+@media print {
+    #header,
+    #navigation,
+    #footer {
+      display: none;
+    }
+  
+    #content {
+      width: 100%;
+      margin-right: 0px;
+    }
+  
+    #aside {
+      display: flex;
+      flex-direction: column;
+      page-break-inside: avoid;
+    }
+  }
+
+  /* 2 - Precisamos definir uma @media para estilizar o arquivo para dispositivos móveis seguindo os pontos abaixo:
+O elemento com id aside deve desaparecer;
+O elemento body não deve ter padding;
+As imagens não devem exceder a largura da tela;
+Os itens dentro do elemento navigation devem aparecer cada um em sua própria linha;
+O elemento com id header deve ser fixo, de forma que ele fique aparecendo sempre no topo da tela mesmo após o usuário rolar a página. */
+/** For small phones/windows **/
+@media (max-width: 700px) {
+    body {
+      padding: 0px;
+    }
+  
+    #header {
+      position: fixed;
+      top: 0px;
+      left: 0px;
+      width: 100%;
+      height: 35px;
+    }
+  
+    #navigation {
+      margin-top: 75px;
+    }
+  
+    #content-container {
+      background: #FFF;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    #content {
+      width: 80%;
+      text-align: justify;
+    }
+  
+    #aside {
+      margin: 20px;
+      align-self: flex-start;
+    }
+  
+    img {
+      max-width: 100%;
+    }
+  }
