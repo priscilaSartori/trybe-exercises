@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=p, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="cont"></p>
+    <button id="button">click aqui!</button>
+    <script>
+        let clickCount = 0;
+        let contador = document.getElementById("cont");
+        let button = document.getElementById("button");
+        button.addEventListener("click", () => contador.innerText = clickCount += 1);        
+    </script>
+</body>
+</html>
+
+<!-- Solução:
+Primeiro passo: Crie a estrutura do html.
+A estrutura deve conter:
+uma tag span com o id text;
+uma tag button com o id button_test.
+Segundo passo: Crie uma variável dentro da tag <script> para armazenar a quantidade de clicks
+Terceiro passo: Recupere o elemento com o id text.
+Quarto passo: Recupere o elemento com o id button_test.
+Quinto passo: Adicione um eventListener na variável buttonTest.
+Quando o botão for clicado exiba o valor da variável clickCount + 1. -->
