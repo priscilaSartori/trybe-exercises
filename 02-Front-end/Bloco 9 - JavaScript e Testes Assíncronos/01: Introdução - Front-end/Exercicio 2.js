@@ -1,3 +1,5 @@
+// 2 - Observe o código abaixo e responda: qual é a ordem de finalização de execução das linhas comentadas?
+
 // callbacks-para-fixar-02.js
 
 const userFullName1 = ({ firstName, lastName }) => `Olá! Meu nome é ${firstName} ${lastName}`;
@@ -20,3 +22,6 @@ const getUser1 = (callback) => { // 1. Adiciona o parâmetro
 
 getUser1(userFullName1); // deve imprimir "Olá! Meu nome é Ivan Ivanovich" depois de um certo tempo
 getUser1(userNationality1); // deve imprimir "Ivan é Russo" depois de um certo tempo
+
+// Solução:
+// A ordem de finalização das linhas comentadas é: A, C e, por fim, B.
