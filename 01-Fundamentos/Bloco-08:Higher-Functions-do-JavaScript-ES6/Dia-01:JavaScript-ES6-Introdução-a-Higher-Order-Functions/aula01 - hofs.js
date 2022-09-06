@@ -1,5 +1,5 @@
 /**
- * Desenvolva uma função que imprima uma mensagem de saudação
+ *  
  */
 
 const printGreeting = () => {
