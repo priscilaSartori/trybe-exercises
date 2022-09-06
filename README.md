@@ -32,9 +32,9 @@ Mas, antes de se aventurar nos exercícios, saiba que você encontrará imports 
   <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-0x-exercise-magic-card.git`.
+  * `git clone git@github.com:tryber/sd-t25-b-exercise-magic-card.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-0x-exercise-magic-card`
+    * `cd sd-t25-b-exercise-magic-card`
 
 2. Instale as dependências e inicialize o exercício
   * Instale as dependências:
@@ -65,7 +65,7 @@ Mas, antes de se aventurar nos exercícios, saiba que você encontrará imports 
   * Usando o exemplo anterior: `git push -u origin maria-silva-magic-card`
 
 6. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-exercise-magic-card/pulls)
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-t25-b-exercise-magic-card/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
     * Coloque um título para a sua _Pull Request_
@@ -73,7 +73,7 @@ Mas, antes de se aventurar nos exercícios, saiba que você encontrará imports 
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-exercise-magic-card/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-t25-b-exercise-magic-card/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
@@ -109,7 +109,7 @@ Mas, antes de se aventurar nos exercícios, saiba que você encontrará imports 
 
   - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-   - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+   - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-025-b`.
 
   Caso tenha alguma dúvida, [aqui tem um vídeo explicativo](https://vimeo.com/362189205).
 
