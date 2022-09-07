@@ -19,4 +19,4 @@ Nesse bloco aprendi sobre:
 - Aplicar o conceito de TDD, ou seja, o desenvolvimento orientado a testes;
 - Criar testes unitários a partir do framework Jest.
 
-Tendo isso em mente, aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui].
+Tendo isso em mente, aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](https://github.com/tryber/sd-025-b-project-js-unit-tests/pull/10).
