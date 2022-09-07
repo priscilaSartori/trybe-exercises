@@ -12,10 +12,10 @@ Os requisitos do exercício são:
 ## Parte 3 - Adicionando uma chave SSH na sua conta do GitHub
 ## Parte 4 - O seu repositório no GitHub
 - [ ] 1 - Criar um arquivo .txt com o nome trybe-skills.txt e utilizará o conteúdo abaixo.
-O que eu vou aprender na Trybe:
-- Unix
-- Bash
-- Git
+		O que eu vou aprender na Trybe:
+		- Unix
+		- Bash
+		- Git
 
 - [ ] 2 - Executar o comando ls -l na pasta de arquivos deste dia, você deverá receber um retorno parecido com:
 ls -l
