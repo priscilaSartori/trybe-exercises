@@ -2,7 +2,7 @@
 
 Esse bloco pertence ao módulo de “Fundamentos” do curso da [Trybe] (https://www.betrybe.com/). 
 
-A partir deste bloco aprendi a implementar lógica nas páginas, tornando-as verdadeiramente interativas e dinâmicas! 
+Neste bloco implementamos lógica nas páginas, tornando-as verdadeiramente interativas e dinâmicas! 
 
 Nesse bloco aprendi sobre:
 - Escrever códigos em JavaScript que usam variáveis, constantes e tipos primitivos;
@@ -15,3 +15,5 @@ Nesse bloco aprendi sobre:
 - Manipular objetos;
 - Utilizar os comandos for/in e for/of;
 - Utilizar funções para organizar e estruturar o seu código;
+
+Tendo isso em mente, aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui].

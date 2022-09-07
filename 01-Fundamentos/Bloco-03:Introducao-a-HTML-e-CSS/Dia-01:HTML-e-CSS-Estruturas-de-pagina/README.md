@@ -3,7 +3,6 @@
 O objetivo dos exercícios desse dia foi iniciar meu contato com as linguagens de marcação, estilo e comportamento utilizadas no cliente (por exemplo, os browsers), desenvolvendo as habilidades necessárias para criar páginas web cada vez mais robustas!
 O HTML e o CSS são duas das pedras fundamentais no desenvolvimento web. São duas linguagens muito poderosas, que te permitem criar páginas web do zero e são utilizadas como base para inúmeras outras tecnologias de desenvolvimento web.
 
-
 Os requisitos do exercício são:
 
 ## Parte 1 - HTML - Primeiras tags

@@ -2,7 +2,6 @@
 
 O objetivo dos exercícios desse dia foi entender como o CSS funciona, pois praticamente todas as páginas da internet utilizam algum estilo criado com CSS, seja ele personalizado ou através de algum framework.
 
-
 Os requisitos do exercício são:
 
 ## Parte 1 - INTRODUÇÃO AO CSS

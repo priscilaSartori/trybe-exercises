@@ -2,7 +2,6 @@
 
 O objetivo dos exercícios desse dia foi saber criar regras específicas que selecionam os elementos de maneira apropriada e posicioná-los na página e utilizar seletores de pseudoclasses para adicionar lógica condicional de estilização.
 
-
 Os requisitos do exercício são:
 
 ## Parte 1 - Box Model - Modelo de caixas no CSS
