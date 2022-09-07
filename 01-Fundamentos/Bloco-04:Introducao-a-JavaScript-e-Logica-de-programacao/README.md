@@ -16,4 +16,4 @@ Nesse bloco aprendi sobre:
 - Utilizar os comandos for/in e for/of;
 - Utilizar funções para organizar e estruturar o seu código;
 
-Tendo isso em mente, aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui].
+Tendo isso em mente, aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](https://github.com/tryber/sd-025-b-project-playground-functions/pull/103).
