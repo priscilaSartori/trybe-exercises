@@ -9,3 +9,16 @@ const fetchCoins = async () => {
     return result;
 };
 fetchCoins()
+
+const setCoins = async () => {
+    const coins = await fetchCoins();
+    const coinsList = document.getElementById('coins-list');
+    coins.forEach((coin) => {
+      const newLi = document.createElement('li');
+      const usdPrice = Number(coin.priceUsd);
+      newLi.innerText = `${coin.name} (${coin.symbol}): ${usdPrice.toFixed(2)}`;
+      coinsList.appendChild(newLi);
+    });
+  };
+  window.onload = () => setCoins();
+ 
