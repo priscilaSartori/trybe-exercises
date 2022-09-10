@@ -20,10 +20,10 @@ describe('3 - Testes da função saveFavoriteMagicCard', () => {
     expect(favoriteCards.length).toBe(6);
   });
 
-//   it('3.2 Deve retornar favoriteCards contendo apenas os cards favoritos iniciais', () => {
-//     expect.assertions();
-//     expect(favoriteCards).toHaveLength(4);
-//   });
+  it('3.2 Deve retornar favoriteCards contendo apenas os cards favoritos iniciais', () => {
+    expect.assertions();
+    expect(favoriteCards).toHaveLength(4);
+  });
 });
 
 describe('4 - Testes da função saveFavoriteMagicCard', () => {
