@@ -19,9 +19,9 @@ describe('1 - Testes da função getMagicCard', () => {
   });
 });
 
-// describe('2 - Testando o retorno da função getMagicCard', () => {
-//   it('2.1 Verifique se a carta retornada possui o nome Ancestor\'s Chosen.', async () => {
-//     // const response = await getMagicCard('130550');
-//     // implemente seus testes aqui
-  // });
-// });
+describe('2 - Testando o retorno da função getMagicCard', () => {
+  it('2.1 Verifique se a carta retornada possui o nome Ancestor\'s Chosen.', async () => {
+    const response = await getMagicCard('130550');
+    expect(response.name).toBe('Ancestor\'s Chosen');
+  });
+});
