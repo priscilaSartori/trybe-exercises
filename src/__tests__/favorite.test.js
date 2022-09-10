@@ -21,16 +21,17 @@ describe('3 - Testes da função saveFavoriteMagicCard', () => {
   });
 
 //   it('3.2 Deve retornar favoriteCards contendo apenas os cards favoritos iniciais', () => {
-//     // expect.assertions();
-//     // expect(favoriteCards).toHaveLength(4);
+//     expect.assertions();
+//     expect(favoriteCards).toHaveLength(4);
 //   });
-// });
+});
 
-// describe('4 - Testes da função saveFavoriteMagicCard', () => {
-//   it(`4.1 Implemente um teste que verifique que o array que você obteve com o map
-//   contém todos os quatro nomes iniciais nomes`, async () => {
-//     // expect.assertions();
-//     // implemente seus testes aqui
-
-//   });
+describe('4 - Testes da função saveFavoriteMagicCard', () => {
+  it(`4.1 Implemente um teste que verifique que o array que você obteve com o map
+  contém todos os quatro nomes iniciais nomes`, async () => {
+    expect.assertions();
+    const expected = ['Ancestor\'s Chosen', 'Angel of Mercy', 'Aven Cloudchaser', 'Ballista Squad'];
+    const actual = favoriteCards.map((card) => card.name);
+    expect(actual).toEqual(expected);
+  });
 });
