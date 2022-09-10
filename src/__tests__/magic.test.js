@@ -8,10 +8,10 @@ describe('1 - Testes da função getMagicCard', () => {
     expect(typeof getMagicCard).toBe('function');
   });
 
-  // it('1.2 Verifique se a função fetch foi chamada.', async () => {
-  //   await getMagicCard('130550');
-  //      // implemente seus testes aqui
-  // });
+  it('1.2 Verifique se a função fetch foi chamada.', async () => {
+    await getMagicCard('130550');
+    expect(fetch).toHaveBeenCalled();  
+  });
 
 //   it('1.3 Verifique se a função fetch foi chamada com o endpoint correto', async () => {
 //     // await getMagicCard('130550');
