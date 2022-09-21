@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import Pokemon from '../components/Pokemon';
+import Pokemon from '../Pokemon';
 import pokemonList from '../data';
 
 describe('2 - Crie o componente `<Pokemon />`', () => {
