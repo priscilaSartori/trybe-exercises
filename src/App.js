@@ -1,11 +1,16 @@
 import React from 'react';
+import Pokedex from './Pokedex';
+import pokemonList from './data';
 import './App.css';
 
-function App() {
-  return (
-    
-    <h1>Exercise - Pokedex</h1>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+        <Pokedex pokemonList={ pokemonList } />
+      </div>
+    );
+  }
 }
 
 export default App;
