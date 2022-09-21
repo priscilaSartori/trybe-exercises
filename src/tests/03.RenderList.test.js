@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import App from '../App';
-import Pokedex from '../components/Pokedex';
+import Pokedex from '../Pokedex';
 import pokemonList from '../data';
 
 describe('3 - Renderize uma lista com as informações de cada pokémon', () => {

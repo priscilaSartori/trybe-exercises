@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import App from '../App';
-import Pokedex from '../components/Pokedex';
+import Pokedex from '../Pokedex';
 
 describe('1 - Crie o componente `<Pokedex />`', () => {
   it('O componente `<Pokedex />` renderiza uma tag `h1` com o texto `Pokédex`', () => {
