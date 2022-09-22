@@ -9,7 +9,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Pokedex pokemonList={pokemonList} />
+        <Pokedex pokemonList={ pokemonList } />
 
       </div>
     );

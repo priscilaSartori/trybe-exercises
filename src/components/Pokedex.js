@@ -12,11 +12,13 @@ class Pokedex extends React.Component {
     };
     this.nextPokemon = this.nextPokemon.bind(this);
   }
-  nextPokemon() {
+
+  nextPokemon(listaPokemon) {
     this.setState((state) => ({
-      pokemonIndex: state.pokemonIndex + 1,
+      pokemonIndex: (state.pokemonIndex + 1) % listaPokemon,
     }));
   }
+
   render() {
     const { pokemonList } = this.props;
     const { pokemonIndex } = this.state;
@@ -24,11 +26,11 @@ class Pokedex extends React.Component {
       <>
         <h1> Pokédex </h1>
         <div className="pokedex">
-          <Pokemon pokemon={pokemonList[pokemonIndex]} />
+          <Pokemon pokemon={ pokemonList[pokemonIndex] } />
         </div>
         <button
           type="button"
-          onClick={() => this.nextPokemon(pokemonList.length)}
+          onClick={ () => this.nextPokemon(pokemonList.length) }
         >
           Próximo pokémon
         </button>
