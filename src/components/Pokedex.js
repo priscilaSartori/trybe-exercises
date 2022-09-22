@@ -11,8 +11,9 @@ class Pokedex extends React.Component {
       <>
         <h1> Pokédex </h1>
         <div className="pokedex">
-          {pokemonList
-            .map((pokemon) => <Pokemon key={ pokemon.id } pokemon={ pokemon } />)}
+          <Pokemon pokemon={pokemonList[0]} />
+          {/* {pokemonList
+            .map((pokemon) => <Pokemon key={ pokemon.id } pokemon={ pokemon } />)} */}
         </div>
       </>
     );
