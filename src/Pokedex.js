@@ -19,7 +19,6 @@ class Pokedex extends React.Component {
 
 Pokedex.defaultProps = {
   pokemonList: [],
-
 };
 
 Pokedex.propTypes = {
