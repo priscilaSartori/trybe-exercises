@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import App from '../App';
-import Pokedex from '../Pokedex';
+import Pokedex from '../components/Pokedex';
 import pokemonList from '../data';
 
 describe('3 - Renderize uma lista com as informações de cada pokémon', () => {
@@ -13,8 +13,8 @@ describe('3 - Renderize uma lista com as informações de cada pokémon', () => 
 
   it('Será validado se todos os elementos da lista são renderizados', () => {
     render(<App />);
-    
-    pokemonList.forEach(({name}) => {
+
+    pokemonList.forEach(({ name }) => {
       expect(screen.getByText(name)).toBeInTheDocument();
     });
   })
