@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "bonus": true,
+      "description": "1 - Crie duas rotas para a aplicação: a rota principal `/` e a rota `/about`",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "2 - Crie a rota para a página que exibirá mais infromações do pokémon. Adicione link para essa rota no card que exibe o pokémon na página inicial",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Crie um link para o pokémon que está sendo exibido na página inicial, direcionando para a página de detalhes do pokémon. Na página de detalhes, exiba todas as informações do respectivo pokémon",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    }
+  ]
+}
