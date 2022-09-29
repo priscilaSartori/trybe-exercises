@@ -1,22 +1,34 @@
-# Testes Assíncronos
+# Boas vindas ao repositório de Testes Assíncronos
 
-Esse é o repositório para o conteúdo sobre `Jest Assíncrono`.
+---
 
-### Antes de iniciar
+# Orientações
 
-Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
+<details>
+  <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
 
-Após feito o fork, clone o repositório criado para o seu computador.
+- Crie um fork desse projeto, para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
 
-Rode o `npm install`.
+- Após fazer o fork, clone o repositório criado para o seu computador.
 
-Após o acompanhamento do conteúdo, abra um PR no seu repositório forkado e, se quiser, mergeie para a master, sinta-se a vontade!
+- Rode o comando `npm install`.
 
-**Atenção!** Quando for criar o PR você irá se deparar com essa tela:
+> 💡 Observe o que deve ser feito nas instruções para cada exercício.
+
+</details>
+
+<br />
+
+<details>
+  <summary><strong>🤝 Depois de terminar o desenvolvimento</strong></summary><br />
+
+Após a solução dos exercícios, abra um PR no seu repositório forkado e, se quiser, mergeie para a `main`. Sinta-se à vontade!
+
+**Atenção!**: Ao criar o PR,  você irá se deparar com essa tela:
 
 ![PR do exercício](images/example-pr.png)
 
-É necessário realizar uma mudança. Clique no *base repository* como na imagem abaixo:
+É necessário realizar uma mudança. Para isso, clique no _base repository_ como na imagem abaixo:
 
 ![Mudando a base do repositório](images/change-base.png)
 
@@ -24,15 +36,13 @@ Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemp
 
 ![Após mudança](images/after-change.png)
 
-Agora basta criar o PULL REQUEST clicando no botão `Create Pull Request`.
+Agora, basta criar o PULL REQUEST clicando no botão `Create Pull Request`.
 
-Para cada PR realize esse processo.
+</details>
 
-## Começando o conteúdo
+<br />
 
-Nesse repositório você vai encontrar a estrutura necessária para acompanhar o dia 9.3 Testes Assíncronos.
-
-**Não esqueça de rodar `npm install`**
+Nesse repositório você vai encontrar a estrutura necessária para acompanhar o dia sobre Testes Assíncronos.
 
 A estrutura de pastas está organizada da seguinte forma:
 
