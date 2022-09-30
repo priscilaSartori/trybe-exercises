@@ -6,7 +6,9 @@ import Pokedex from './components/Pokedex';
 function App() {
   return (
     <div className="App">
-      <Pokedex pokemonList={ pokemonList } />
+      <Pokedex
+        pokemonList={ pokemonList }
+      />
     </div>
   );
 }
