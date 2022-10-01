@@ -4,6 +4,7 @@ import { Route, Switch } from 'react-router-dom';
 import pokemonListData from './data';
 import Pokedex from './components/Pokedex';
 import About from './components/About';
+import PokemonDetails from './components/PokemonDetails';
 
 class App extends Component {
   constructor() {
@@ -25,6 +26,15 @@ class App extends Component {
             path="/"
             render={ () => (
               <Pokedex pokemonList={ pokemonList } />
+            ) }
+          />
+          <Route
+            path="/pokemon/:id"
+            render={ (propsRouter) => (
+              <PokemonDetails
+                { ...propsRouter }
+                pokemons={ pokemonList }
+              />
             ) }
           />
           <Route path="/about" component={ About } />
