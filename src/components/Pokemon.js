@@ -1,12 +1,12 @@
-// ./components/Pokemon.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/pokemon.css';
+import PropTypes from 'prop-types';
 import { pokemonType } from '../types';
 
 class Pokemon extends React.Component {
   render() {
-    const { pokemon } = this.props;
+    const { pokemon, hideLink } = this.props;
     const { name, type, averageWeight, image, id } = pokemon;
     return (
       <div className="pokemon">
@@ -18,7 +18,7 @@ class Pokemon extends React.Component {
               `Average weight: ${averageWeight.value} ${averageWeight.measurementUnit}`
             }
           </p>
-          <Link to={ `/pokemon/${id}` }>Details</Link>
+          {!hideLink && <Link to={ `/pokemon/${id}` }>Details</Link>}
         </div>
         <img src={ image } alt={ `${name} sprite` } />
       </div>
@@ -28,6 +28,11 @@ class Pokemon extends React.Component {
 
 Pokemon.propTypes = {
   pokemon: pokemonType.isRequired,
+  hideLink: PropTypes.bool,
+};
+
+Pokemon.defaultProps = {
+  hideLink: false,
 };
 
 export default Pokemon;
