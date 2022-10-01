@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/about.css';
 
 function About() {
   const URL = 'https://archives.bulbagarden.net/media/upload/8/86/Gen_I_Pok%C3%A9dex.png';
