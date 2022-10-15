@@ -1,0 +1,6 @@
+**/*.test.js
+src/tests/*
+src/index.js
+src/data.js
+cypress/*
+coverage/*
