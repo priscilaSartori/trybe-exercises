@@ -5,19 +5,18 @@ Neste módulo aprendi como desenvolver um código de back-end robusto, limpo, es
 Duração: 17 semanas
 
 O que aprendi?
-- [ ] Bloco 19: Docker: Utilizando Containers
-- [ ] Bloco 20: Introdução à SQL
-- [ ] Bloco 21: Funções SQL, JOINs e Normalização
-- [ ] Bloco 22: Introdução ao desenvolvimento Web com Node.js
-- [ ] Bloco 23: Arquitetura de Software: Model, Service e Controller
-- [ ] Bloco 24: Node.js: ORM e Autenticação
-- [ ] Bloco 25: Deployment
-- [ ] Bloco 26: TypeScript
-- [ ] Bloco 27: Programação Orientada a Objetos (POO) e SOLID
-- [ ] Bloco 28: Projeto - TFC - Trybe Futebol Clube
-- [ ] Bloco 29: Introdução ao MongoDB
-- [ ] Bloco 30: MongoDB com Node.js e POO
-- [ ] Bloco 31: Projeto - App de Delivery
-- [ ] Bloco 32: MasterClass - VPS, CI/CD
+- [ ] Seção 01: Docker: Utilizando Containers
+- [ ] Seção 02: Introdução à SQL
+- [ ] Seção 03: Funções SQL, JOINs e Normalização
+- [ ] Seção 04: Introdução ao desenvolvimento Web com Node.js
+- [ ] Seção 05: Arquitetura de Software: Model, Service e Controller
+- [ ] Seção 06: Node.js: ORM e Autenticação
+- [ ] Seção 07: Masterclass: Implantação de Aplicações na NuvemDeployment
+- [ ] Seção 08: Introdução a TypeScript
+- [ ] Seção 09: Programação Orientada a Objetos (POO) e SOLID
+- [ ] Seção 10: Projeto - TFC - Trybe Futebol Clube
+- [ ] Seção 11: Introdução ao MongoDB
+- [ ] Seção 12: APIs OO e NoSQL
+- [ ] Seção 13: Projeto - App de Delivery
 
-Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Fundamentos do Desenvolvimento Web do curso da [Trybe](https://www.betrybe.com/).
+Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Back-end do curso Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
