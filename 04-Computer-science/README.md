@@ -5,11 +5,9 @@ Aqui você aprendi os principais conceitos da Ciência da Computação que são 
 Duração: 6 semanas
 
 O que aprendi?
-- [ ] Bloco 33: Introdução à Python
-- [ ] Bloco 34: Padrões de Projeto
-- [ ] Bloco 35: Redes e Raspagem de Dados
-- [ ] Bloco 36: Algoritmos
-- [ ] Bloco 37: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
-- [ ] Bloco 38: Estrutura de Dados II: Hashmaps e Sets
+- [ ] Seção 01: Introdução à Python
+- [ ] Seção 02: Algoritmos
+- [ ] Seção 03: Estrutura de Dados I: Listas lineares
+- [ ] Seção 04: Estrutura de Dados II: Hashmaps e Sets
 
-Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Fundamentos do Desenvolvimento Web do curso da [Trybe](https://www.betrybe.com/).
+Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Ciência da computação do curso Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
