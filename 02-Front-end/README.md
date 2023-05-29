@@ -1,17 +1,19 @@
-# FUNDAMENTOS DO DESENVOLVIMENTO WEB
+# DESENVOLVIMENTO FRONT-END
 
-Nosso primeiro módulo foi a base para iniciar minha carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. 
+Neste módulo, aprendi as técnicas e ferramentas mais atuais para desenvolver um código de front-end que seja rápido, bonito e testável.
 
 Duração: 10 semanas
 
 O que aprendi?
-- [ ] Bloco 1: Unix & Shell
-- [ ] Bloco 2: Git & GitHub & Internet
-- [ ] Bloco 3: Introdução à HTML & CSS
-- [ ] Bloco 4: Introdução à JavaScript e lógica de programação
-- [ ] Bloco 5: JavaScript: DOM, Eventos e Web Storage
-- [ ] Bloco 6: HTML & CSS avançado: Forms, Flexbox e Responsivo
-- [ ] Bloco 7: JavaScript ES6 & Testes Unitários
-- [ ] Bloco 8: Higher Order Functions do JavaScript
+- [ ] Seção 01: JavaScript e Testes Assíncronos
+- [ ] Seção 02: Introdução à React
+- [ ] Seção 03: Componentes com Estado, Eventos e Formulários com React
+- [ ] Seção 04: Ciclo de Vida de Componentes e React Router
+- [ ] Seção 05: Metodologias Ágeis
+- [ ] Seção 06: Testes automatizados com React Testing Library
+- [ ] Seção 07: Gerenciamento de estado com Redux
+- [ ] Seção 08: Projeto Jogo de Trivia
+- [ ] Seção 09: Context API e React Hooks
+- [ ] Seção 10: Projeto App de Receitas
 
-Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Fundamentos do Desenvolvimento Web do curso da [Trybe](https://www.betrybe.com/).
+Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Front-end do curso Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
